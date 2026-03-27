@@ -1,21 +1,21 @@
 Questions list solved in this Project are listed below-
 
-**Question 1.)** Write a query to return the email, first name, last name, and Genre of all Rock Music listeners. Return your list ordered alphabetically by email starting with A.  
+Question 1.) Write a query to return the email, first name, last name, and Genre of all Rock Music listeners. Return your list ordered alphabetically by email starting with A.  
 
-**Question 2.)** Write a query that returns the Artist name and total track count of the top 10 rock bands.  
+Question 2.) Write a query that returns the Artist name and total track count of the top 10 rock bands.  
 
-**Question 3.)** Return all the track names that have a song length longer than the average song length. Return the Name and Milliseconds for each track. Order by the song length with the longest songs listed first.  
+Question 3.) Return all the track names that have a song length longer than the average song length. Return the Name and Milliseconds for each track. Order by the song length with the longest songs listed first.  
 
-**Question 4.)** Find how much amount is spent by each customer on artists. Write a query to return customer name, artist name, and total spent.  
+Question 4.) Find how much amount is spent by each customer on artists. Write a query to return customer name, artist name, and total spent.  
 
-**Question 5.)** Write a query that returns each country along with the most popular Genre (the genre with the highest amount of purchases). For countries where the maximum number of purchases is shared, return all Genres.  
+Question 5.) Write a query that returns each country along with the most popular Genre (the genre with the highest amount of purchases). For countries where the maximum number of purchases is shared, return all Genres.  
 
-**Question 6.)** Write a query that returns the country along with the top customer and how much they spent. For countries where the top amount spent is shared, provide all customers who spent this amount.  
+Question 6.) Write a query that returns the country along with the top customer and how much they spent. For countries where the top amount spent is shared, provide all customers who spent this amount.  
 
-**Question 7.)** Who is the senior most employee based on job title?  
+Question 7.) Who is the senior most employee based on job title?  
 
-**Question 8.)** Which countries have the most Invoices?  
+Question 8.) Which countries have the most Invoices?  
 
-**Question 9.)** What are the top 3 values of total invoice?  
+Question 9.) What are the top 3 values of total invoice?  
 
-**Question 10.)** Which city has the best customers? Write a query that returns the city with the highest sum of invoice totals, along with the city name and sum of all invoice totals.  
+Question 10.) Which city has the best customers? Write a query that returns the city with the highest sum of invoice totals, along with the city name and sum of all invoice totals.  
